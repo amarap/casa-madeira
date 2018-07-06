@@ -1,0 +1,24 @@
+{
+  "name": "casa-madeira",
+  "version": "1.0.0",
+  "description": "Casa Madeira Website",
+  "main": "index.html",
+  "scripts": {
+    "start": "npm run lite",
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "lite": "lite-server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amarap/casa-madeira.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/amarap/casa-madeira/issues"
+  },
+  "homepage": "https://github.com/amarap/casa-madeira#readme",
+  "devDependencies": {
+    "lite-server": "^2.4.0"
+  }
+}
